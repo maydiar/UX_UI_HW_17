@@ -78,6 +78,10 @@ a.topLink:hover {
     color: #A8AD00;    
 }
 
+a:focus {
+    outline: 2px solid #a8ad00;
+}
+
 .logo {
     padding: 30px 50px;
     width: 70%;
@@ -91,8 +95,7 @@ a.topLink:hover {
 }
 
 ul {
-    display: flex;
-    padding: 15%;
+    display: inline-block;
     font-family: 'arkhipregular';
     letter-spacing: 0.1px;
     font-size: 13px;  
