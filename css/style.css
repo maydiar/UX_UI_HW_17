@@ -77,7 +77,6 @@ header {
 a.topLink:hover {
     color: #A8AD00;    
 }
-
 a:focus {
     outline: 2px solid #a8ad00;
 }
